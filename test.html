@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>KAMAGIO Premium Drinkware | Stainless Steel Tumblers & Bottles</title>
+
+  <meta name="description" content="Discover KAMAGIO's premium stainless steel drinkware collection. Our vacuum-insulated tumblers, ergonomic water bottles, and stylish accessories keep drinks hot or cold for hours. Perfect for home, office, or travel. Get 20% off at launch!" />
+  <meta name="keywords" content="premium tumblers, stainless steel water bottles, vacuum insulated drinkware, designer water bottles, tumbler accessories, KAMAGIO, hydration solutions, eco-friendly drinkware, gift sets, thermal bottles" />
+  <meta name="author" content="KAMAGIO" />
+  <meta name="robots" content="index, follow" />
+  <meta name="language" content="en" />
+
+  <meta property="og:title" content="KAMAGIO Premium Drinkware | 20% Off at Launch" />
+  <meta property="og:description" content="Premium stainless steel tumblers & bottles with vacuum insulation. Keeps drinks hot/cold for 24 hours. Get 20% off with code KAMAGIO20!" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.kamagio.com" />
+  <meta property="og:image" content="https://www.kamagio.com/assets/images/kamagio.svg" /> <meta property="og:site_name" content="KAMAGIO" />
+  <meta property="og:locale" content="en_US" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="KAMAGIO Premium Drinkware | 20% Off" />
+  <meta name="twitter:description" content="Premium stainless steel tumblers with 24-hour temperature retention. 20% off at launch!" />
+  <meta name="twitter:image" content="https://www.kamagio.com/assets/images/kamagio.svg" /> <link rel="icon" type="image/svg+xml" href="assets/images/kamagio.svg" />
+  <link rel="alternate icon" href="assets/images/favicon.ico" />
+
+  <link rel="canonical" href="https://www.kamagio.com" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/kamagio.com/assets/css/style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "KAMAGIO",
+    "url": "https://www.kamagio.com",
+    "logo": "https://www.kamagio.com/assets/images/kamagio.svg",
+    "description": "Premium stainless steel drinkware with vacuum insulation technology for optimal temperature retention",
+    "sameAs": [
+      "https://www.facebook.com/kamagio",
+      "https://www.instagram.com/kamagio",
+      "https://www.pinterest.com/kamagio"
+    ],
+    "founder": {
+      "@type": "Person",
+      "name": "Alex Johnson"
+    },
+    "foundingDate": "2023",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "123 Hydration Lane",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94107",
+      "addressCountry": "US"
+    }
+  }
+  </script>
+</head>
+<body>
+
+<div class="loading-screen" id="loadingScreen">
+  <div class="loading-content">
+    <div class="loading-logo">KAMAGIO</div>
+    <div class="loading-bar">
+      <div class="loading-progress"></div>
+    </div>
+  </div>
+</div>
+
+<div class="cursor-trail" id="cursorTrail"></div>
+
+<section class="hero">
+  <div class="particles" id="particles"></div>
+  <div class="hero-background">
+    <div class="floating-shape shape-1"></div>
+    <div class="floating-shape shape-2"></div>
+    <div class="floating-shape shape-3"></div>
+  </div>
+
+  <div class="hero-content">
+    <img src="/kamagio.com/assets/images/kamagio.svg" alt="KAMAGIO Logo" class="logo"> <h1 class="hero-title">
+      <strong>Premium Hydration</strong> Designed for Your Lifestyle<br>
+      Vacuum-Insulated Stainless Steel Drinkware – <strong>Launching Soon</strong>
+    </h1>
+
+    <div class="hero-cta">
+      <a href="#discount" class="cta-button">Get Exclusive 20% Off</a>
+    </div>
+  </div>
+  <div class="scroll-indicator" aria-hidden="true"></div>
+</section>
+
+<main class="main-content">
+  <section class="discount-section" id="discount">
+    <div class="discount-content">
+      <div class="discount-badge">Exclusive Launch Offer</div>
+      <h2 class="discount-title">20% OFF</h2>
+      <p class="discount-subtitle">Be among the first customers and enjoy special savings</p>
+
+      <div class="discount-code" id="discountCode" onclick="copyToClipboard('KAMAGIO20')" role="button" tabindex="0">
+        KAMAGIO20
+      </div>
+
+      <p class="email-description">
+        Join our VIP list and we'll notify you as soon as our premium collection launches. Plus, get exclusive early access!
+      </p>
+
+      <form class="email-form" id="subscribeForm" novalidate>
+        <div class="input-wrapper">
+          <input
+            type="email"
+            name="email"
+            class="email-input"
+            placeholder="Your email address"
+            required
+            aria-label="Email address"
+            id="emailInput"
+          />
+        </div>
+        <button type="submit" class="submit-btn" id="submitBtn">
+          <span class="btn-text">Get My Discount</span>
+          <span class="btn-loader">
+            <div class="spinner"></div>
+          </span>
+        </button>
+      </form>
+
+      <div class="success-message" id="formMessage">
+        ✨ Thank you for joining the KAMAGIO community! Your exclusive discount code is now active. We'll notify you when we launch!
+      </div>
+
+      <div class="error-message" id="errorMessage">
+        ⚠️ Please enter a valid email address to receive your discount.
+      </div>
+    </div>
+  </section>
+
+  <section class="products-section">
+    <div class="section-header">
+      <h2 class="section-title">Our Premium Collection</h2>
+      <p class="section-description">Designed for those who appreciate quality, style, and functionality in their everyday essentials</p>
+    </div>
+    <div class="products-grid">
+      <div class="product-card animate-on-scroll" data-delay="0">
+        <div class="product-icon-wrapper">
+          <span class="product-icon">🥤</span>
+        </div>
+        <h3 class="product-title">Premium Tumblers</h3>
+        <p class="product-description">Our 18/8 stainless steel tumblers feature double-wall vacuum insulation to keep beverages at the perfect temperature for up to 24 hours. Available in multiple sizes from 12oz to 30oz.</p>
+        <div class="product-highlight">Premium Materials</div>
+      </div>
+      <div class="product-card animate-on-scroll" data-delay="100">
+        <div class="product-icon-wrapper">
+          <span class="product-icon">💧</span>
+        </div>
+        <h3 class="product-title">Ergonomic Bottles</h3>
+        <p class="product-description">Designed for comfort and style, our water bottles feature a sweat-proof exterior and leak-proof lid. The contoured shape fits perfectly in car cup holders and bag pockets.</p>
+        <div class="product-highlight">Ergonomic Design</div>
+      </div>
+      <div class="product-card animate-on-scroll" data-delay="200">
+        <div class="product-icon-wrapper">
+          <span class="product-icon">✨</span>
+        </div>
+        <h3 class="product-title">Stylish Accessories</h3>
+        <p class="product-description">Complete your drinkware with our premium accessories including silicone sleeves, bamboo lids, cleaning brushes, and carrying straps - all designed to complement your tumbler.</p>
+        <div class="product-highlight">Perfect Match</div>
+      </div>
+      <div class="product-card animate-on-scroll" data-delay="300">
+        <div class="product-icon-wrapper">
+          <span class="product-icon">🎁</span>
+        </div>
+        <h3 class="product-title">Luxury Gift Sets</h3>
+        <p class="product-description">Beautifully packaged sets including tumblers, accessories, and personalized engraving options. Perfect for weddings, corporate gifts, or special occasions.</p>
+        <div class="product-highlight">Ready to Gift</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="features-section">
+    <div class="section-header">
+      <h2 class="section-title centered">Smart Design Benefits</h2>
+      <p class="section-description">Every KAMAGIO product is engineered with thoughtful features for your convenience</p>
+    </div>
+
+    <div class="features-container">
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">🌱</div>
+        <h3>Eco-Friendly</h3>
+        <p>Made from food-grade 18/8 stainless steel that's BPA-free and 100% recyclable. Reduce single-use plastic waste with our durable drinkware.</p>
+      </div>
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">🔥</div>
+        <h3>Temperature Control</h3>
+        <p>Advanced vacuum insulation maintains temperatures - keeps drinks cold for 24 hours or hot for 12 hours. Perfect for coffee, tea, or iced beverages.</p>
+      </div>
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">💎</div>
+        <h3>Premium Quality</h3>
+        <p>Military-grade stainless steel construction resistant to dents and corrosion. Dishwasher safe for easy cleaning.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="features-section">
+    <div class="features-container">
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">🍺</div>
+        <h3>Discreet Design</h3>
+        <p>Elegant, minimalist styling works equally well for water, cocktails, or beer. The perfect companion for beaches, offices, or outdoor adventures.</p>
+      </div>
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">💦</div>
+        <h3>No Condensation</h3>
+        <p>Double-walled construction prevents sweating - no more wet rings on your furniture or damp hands from holding your drink.</p>
+      </div>
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">🤚</div>
+        <h3>Comfortable Hold</h3>
+        <p>Ergonomic design with a non-slip grip keeps the exterior at ambient temperature - no burning or freezing your hands.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="testimonials-section">
+    <div class="section-header">
+      <h2 class="section-title">What Our Early Customers Say</h2>
+    </div>
+    <div class="testimonials-container">
+      <div class="testimonial-card animate-on-scroll">
+        <div class="testimonial-rating">★★★★★</div>
+        <p class="testimonial-text">"The best tumbler I've ever owned! My coffee stays hot all morning and the design is so sleek."</p>
+        <div class="testimonial-author">- Sarah M.</div>
+      </div>
+      <div class="testimonial-card animate-on-scroll">
+        <div class="testimonial-rating">★★★★★</div>
+        <p class="testimonial-text">"Perfect for the gym - no more plastic bottles and my water stays ice cold through my entire workout."</p>
+        <div class="testimonial-author">- James T.</div>
+      </div>
+      <div class="testimonial-card animate-on-scroll">
+        <div class="testimonial-rating">★★★★★</div>
+        <p class="testimonial-text">"I gifted these to my team and they loved them! The quality is exceptional and the packaging is beautiful."</p>
+        <div class="testimonial-author">- Priya K.</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="faq-section">
+    <div class="section-header">
+      <h2 class="section-title">Frequently Asked Questions</h2>
+    </div>
+    <div class="faq-container">
+      <div class="faq-item animate-on-scroll">
+        <button class="faq-question">What sizes do your tumblers come in?<span class="faq-toggle">+</span></button>
+        <div class="faq-answer">
+          <p>Our premium tumblers are available in three sizes: 12oz (perfect for espresso), 20oz (ideal for lattes or iced drinks), and 30oz (great for hydration throughout the day). All sizes feature the same premium insulation technology.</p>
+        </div>
+      </div>
+      <div class="faq-item animate-on-scroll">
+        <button class="faq-question">Are your products dishwasher safe?<span class="faq-toggle">+</span></button>
+        <div class="faq-answer">
+          <p>Yes! All KAMAGIO stainless steel components are dishwasher safe. We recommend hand washing lids with silicone seals to prolong their lifespan. All our products come with detailed care instructions.</p>
+        </div>
+      </div>
+      <div class="faq-item animate-on-scroll">
+        <button class="faq-question">Do you offer international shipping?<span class="faq-toggle">+</span></button>
+        <div class="faq-answer">
+          <p>We currently ship to the US, Canada, and EU countries. International shipping rates and delivery times vary by destination. All orders over $100 qualify for free shipping in the continental US.</p>
+        </div>
+      </div>
+      <div class="faq-item animate-on-scroll">
+        <button class="faq-question">What's your return policy?<span class="faq-toggle">+</span></button>
+        <div class="faq-answer">
+          <p>We offer a 30-day satisfaction guarantee. If you're not completely happy with your purchase, you can return it for a full refund. All products come with a 1-year warranty against manufacturing defects.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="footer-wave"></div>
+  <div class="footer-content">
+    <div class="footer-logo">KAMAGIO</div>
+    <div class="footer-links">
+      <a href="about.html">About Us</a>
+      <a href="contact.html">Contact</a>
+      <a href="shipping.html">Shipping Policy</a>
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="terms.html">Terms of Service</a>
+    </div>
+    <div class="footer-social">
+      <a href="#" aria-label="Facebook"><span>📱</span></a>
+      <a href="#" aria-label="Instagram"><span>📸</span></a>
+      <a href="#" aria-label="Pinterest"><span>📌</span></a>
+    </div>
+    <div class="footer-newsletter">
+      <p>Stay updated with our latest products and offers</p>
+      <form class="footer-email-form">
+        <input type="email" placeholder="Your email address" required>
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+    <p class="footer-copyright">© 2025 KAMAGIO – All rights reserved</p>
+    <div class="footer-pulse"></div>
+  </div>
+</footer>
+
+<script src="/kamagio.com/assets/js/app.js"></script>
+
+</body>
+</html>
