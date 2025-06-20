@@ -4,33 +4,42 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
-  <title>KAMAGIO – Premium Stainless Steel Tumblers & Bottles | 20% Launch Discount</title>
+  <title>KAMAGIO Premium Drinkware | Stainless Steel Tumblers & Bottles</title>
   
   <!-- SEO Meta tags -->
-  <meta name="description" content="Discover KAMAGIO's premium stainless steel tumblers with vacuum insulation. Keep drinks hot/cold for hours. Get 20% off your first order with code KAMAGIO20." />
-  <meta name="keywords" content="premium tumblers, stainless steel bottles, vacuum insulation, designer water bottles, stylish drinkware, KAMAGIO, hydration, thermal bottles, gift sets" />
+  <meta name="description" content="Discover KAMAGIO's premium stainless steel drinkware collection. Our vacuum-insulated tumblers, ergonomic water bottles, and stylish accessories keep drinks hot or cold for hours. Perfect for home, office, or travel. Get 20% off at launch!" />
+  <meta name="keywords" content="premium tumblers, stainless steel water bottles, vacuum insulated drinkware, designer water bottles, tumbler accessories, KAMAGIO, hydration solutions, eco-friendly drinkware, gift sets, thermal bottles" />
   <meta name="author" content="KAMAGIO" />
   <meta name="robots" content="index, follow" />
   <meta name="language" content="en" />
   
   <!-- Open Graph for social media -->
-  <meta property="og:title" content="KAMAGIO – Premium Stainless Steel Tumblers | 20% Off at Launch" />
-  <meta property="og:description" content="Premium stainless steel tumblers with vacuum insulation. Keeps drinks hot/cold for hours. 20% off with code KAMAGIO20!" />
+  <meta property="og:title" content="KAMAGIO Premium Drinkware | 20% Off at Launch" />
+  <meta property="og:description" content="Premium stainless steel tumblers & bottles with vacuum insulation. Keeps drinks hot/cold for 24 hours. Get 20% off with code KAMAGIO20!" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://www.kamagio.com" />
-  <meta property="og:image" content="https://www.kamagio.com/kamagio-social.jpg" />
+  <meta property="og:image" content="https://www.kamagio.com/kamagio-logo.svg" />
   <meta property="og:site_name" content="KAMAGIO" />
   <meta property="og:locale" content="en_US" />
   
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="KAMAGIO – Premium Stainless Steel Tumblers" />
-  <meta name="twitter:description" content="Vacuum insulated tumblers that keep drinks perfect for hours. 20% off at launch!" />
-  <meta name="twitter:image" content="https://www.kamagio.com/kamagio-social.jpg" />
+  <meta name="twitter:title" content="KAMAGIO Premium Drinkware | 20% Off" />
+  <meta name="twitter:description" content="Premium stainless steel tumblers with 24-hour temperature retention. 20% off at launch!" />
+  <meta name="twitter:image" content="https://www.kamagio.com/kamagio-logo.svg" />
   
   <!-- Favicon -->
-  <link rel="icon" type="image/svg+xml" href="kamagio.svg" />
-  <link rel="alternate icon" href="favicon.ico" />
+  <link rel="icon" type="image/svg+xml" href="assets/images/kamagio.svg" />
+  <link rel="alternate icon" href="assets/images/favicon.ico" />
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://www.kamagio.com" />
+  
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="assets/css/style.css">
   
   <!-- Schema.org structured data -->
   <script type="application/ld+json">
@@ -40,13 +49,288 @@
     "name": "KAMAGIO",
     "url": "https://www.kamagio.com",
     "logo": "https://www.kamagio.com/kamagio-logo.svg",
-    "description": "Premium stainless steel tumblers with vacuum insulation technology for perfect temperature retention",
+    "description": "Premium stainless steel drinkware with vacuum insulation technology for optimal temperature retention",
     "sameAs": [
+      "https://www.facebook.com/kamagio",
       "https://www.instagram.com/kamagio",
-      "https://www.facebook.com/kamagio"
-    ]
+      "https://www.pinterest.com/kamagio"
+    ],
+    "founder": {
+      "@type": "Person",
+      "name": "Alex Johnson"
+    },
+    "foundingDate": "2023",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "123 Hydration Lane",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "postalCode": "94107",
+      "addressCountry": "US"
+    }
   }
   </script>
+</head>
+<body>
+
+<!-- Loading Screen -->
+<div class="loading-screen" id="loadingScreen">
+  <div class="loading-content">
+    <div class="loading-logo">KAMAGIO</div>
+    <div class="loading-bar">
+      <div class="loading-progress"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Cursor Trail -->
+<div class="cursor-trail" id="cursorTrail"></div>
+
+<section class="hero">
+  <div class="particles" id="particles"></div>
+  <div class="hero-background">
+    <div class="floating-shape shape-1"></div>
+    <div class="floating-shape shape-2"></div>
+    <div class="floating-shape shape-3"></div>
+  </div>
+  
+  <div class="hero-content">
+    <!-- SVG Logo -->
+    <img src="kamagio.svg" alt="KAMAGIO Logo" class="logo">
+    
+    <h1 class="hero-title">
+      <strong>Premium Hydration</strong> Designed for Your Lifestyle<br>
+      Vacuum-Insulated Stainless Steel Drinkware – <strong>Launching Soon</strong>
+    </h1>
+    
+    <div class="hero-cta">
+      <a href="#discount" class="cta-button">Get Exclusive 20% Off</a>
+    </div>
+  </div>
+  <div class="scroll-indicator" aria-hidden="true"></div>
+</section>
+
+<main class="main-content">
+  <section class="discount-section" id="discount">
+    <div class="discount-content">
+      <div class="discount-badge">Exclusive Launch Offer</div>
+      <h2 class="discount-title">20% OFF</h2>
+      <p class="discount-subtitle">Be among the first customers and enjoy special savings</p>
+      
+      <div class="discount-code" id="discountCode" onclick="copyToClipboard('KAMAGIO20')" role="button" tabindex="0">
+        KAMAGIO20
+      </div>
+      
+      <p class="email-description">
+        Join our VIP list and we'll notify you as soon as our premium collection launches. Plus, get exclusive early access!
+      </p>
+
+      <form class="email-form" id="subscribeForm" novalidate>
+        <div class="input-wrapper">
+          <input 
+            type="email" 
+            name="email" 
+            class="email-input" 
+            placeholder="Your email address" 
+            required 
+            aria-label="Email address"
+            id="emailInput"
+          />
+        </div>
+        <button type="submit" class="submit-btn" id="submitBtn">
+          <span class="btn-text">Get My Discount</span>
+          <span class="btn-loader">
+            <div class="spinner"></div>
+          </span>
+        </button>
+      </form>
+
+      <div class="success-message" id="formMessage">
+        ✨ Thank you for joining the KAMAGIO community! Your exclusive discount code is now active. We'll notify you when we launch!
+      </div>
+      
+      <div class="error-message" id="errorMessage">
+        ⚠️ Please enter a valid email address to receive your discount.
+      </div>
+    </div>
+  </section>
+
+  <section class="products-section">
+    <div class="section-header">
+      <h2 class="section-title">Our Premium Collection</h2>
+      <p class="section-description">Designed for those who appreciate quality, style, and functionality in their everyday essentials</p>
+    </div>
+    <div class="products-grid">
+      <div class="product-card animate-on-scroll" data-delay="0">
+        <div class="product-icon-wrapper">
+          <span class="product-icon">🥤</span>
+        </div>
+        <h3 class="product-title">Premium Tumblers</h3>
+        <p class="product-description">Our 18/8 stainless steel tumblers feature double-wall vacuum insulation to keep beverages at the perfect temperature for up to 24 hours. Available in multiple sizes from 12oz to 30oz.</p>
+        <div class="product-highlight">Premium Materials</div>
+      </div>
+      <div class="product-card animate-on-scroll" data-delay="100">
+        <div class="product-icon-wrapper">
+          <span class="product-icon">💧</span>
+        </div>
+        <h3 class="product-title">Ergonomic Bottles</h3>
+        <p class="product-description">Designed for comfort and style, our water bottles feature a sweat-proof exterior and leak-proof lid. The contoured shape fits perfectly in car cup holders and bag pockets.</p>
+        <div class="product-highlight">Ergonomic Design</div>
+      </div>
+      <div class="product-card animate-on-scroll" data-delay="200">
+        <div class="product-icon-wrapper">
+          <span class="product-icon">✨</span>
+        </div>
+        <h3 class="product-title">Stylish Accessories</h3>
+        <p class="product-description">Complete your drinkware with our premium accessories including silicone sleeves, bamboo lids, cleaning brushes, and carrying straps - all designed to complement your tumbler.</p>
+        <div class="product-highlight">Perfect Match</div>
+      </div>
+      <div class="product-card animate-on-scroll" data-delay="300">
+        <div class="product-icon-wrapper">
+          <span class="product-icon">🎁</span>
+        </div>
+        <h3 class="product-title">Luxury Gift Sets</h3>
+        <p class="product-description">Beautifully packaged sets including tumblers, accessories, and personalized engraving options. Perfect for weddings, corporate gifts, or special occasions.</p>
+        <div class="product-highlight">Ready to Gift</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section class="features-section">
+    <div class="section-header">
+      <h2 class="section-title centered">Smart Design Benefits</h2>
+      <p class="section-description">Every KAMAGIO product is engineered with thoughtful features for your convenience</p>
+    </div>
+
+    <div class="features-container">
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">🌱</div>
+        <h3>Eco-Friendly</h3>
+        <p>Made from food-grade 18/8 stainless steel that's BPA-free and 100% recyclable. Reduce single-use plastic waste with our durable drinkware.</p>
+      </div>
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">🔥</div>
+        <h3>Temperature Control</h3>
+        <p>Advanced vacuum insulation maintains temperatures - keeps drinks cold for 24 hours or hot for 12 hours. Perfect for coffee, tea, or iced beverages.</p>
+      </div>
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">💎</div>
+        <h3>Premium Quality</h3>
+        <p>Military-grade stainless steel construction resistant to dents and corrosion. Dishwasher safe for easy cleaning.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- More Features Section -->
+  <section class="features-section">
+    <div class="features-container">
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">🍺</div>
+        <h3>Discreet Design</h3>
+        <p>Elegant, minimalist styling works equally well for water, cocktails, or beer. The perfect companion for beaches, offices, or outdoor adventures.</p>
+      </div>
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">💦</div>
+        <h3>No Condensation</h3>
+        <p>Double-walled construction prevents sweating - no more wet rings on your furniture or damp hands from holding your drink.</p>
+      </div>
+      <div class="feature-item animate-on-scroll">
+        <div class="feature-icon">🤚</div>
+        <h3>Comfortable Hold</h3>
+        <p>Ergonomic design with a non-slip grip keeps the exterior at ambient temperature - no burning or freezing your hands.</p>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Testimonials Section -->
+  <section class="testimonials-section">
+    <div class="section-header">
+      <h2 class="section-title">What Our Early Customers Say</h2>
+    </div>
+    <div class="testimonials-container">
+      <div class="testimonial-card animate-on-scroll">
+        <div class="testimonial-rating">★★★★★</div>
+        <p class="testimonial-text">"The best tumbler I've ever owned! My coffee stays hot all morning and the design is so sleek."</p>
+        <div class="testimonial-author">- Sarah M.</div>
+      </div>
+      <div class="testimonial-card animate-on-scroll">
+        <div class="testimonial-rating">★★★★★</div>
+        <p class="testimonial-text">"Perfect for the gym - no more plastic bottles and my water stays ice cold through my entire workout."</p>
+        <div class="testimonial-author">- James T.</div>
+      </div>
+      <div class="testimonial-card animate-on-scroll">
+        <div class="testimonial-rating">★★★★★</div>
+        <p class="testimonial-text">"I gifted these to my team and they loved them! The quality is exceptional and the packaging is beautiful."</p>
+        <div class="testimonial-author">- Priya K.</div>
+      </div>
+    </div>
+  </section>
+  
+  <!-- FAQ Section -->
+  <section class="faq-section">
+    <div class="section-header">
+      <h2 class="section-title">Frequently Asked Questions</h2>
+    </div>
+    <div class="faq-container">
+      <div class="faq-item animate-on-scroll">
+        <button class="faq-question">What sizes do your tumblers come in?<span class="faq-toggle">+</span></button>
+        <div class="faq-answer">
+          <p>Our premium tumblers are available in three sizes: 12oz (perfect for espresso), 20oz (ideal for lattes or iced drinks), and 30oz (great for hydration throughout the day). All sizes feature the same premium insulation technology.</p>
+        </div>
+      </div>
+      <div class="faq-item animate-on-scroll">
+        <button class="faq-question">Are your products dishwasher safe?<span class="faq-toggle">+</span></button>
+        <div class="faq-answer">
+          <p>Yes! All KAMAGIO stainless steel components are dishwasher safe. We recommend hand washing lids with silicone seals to prolong their lifespan. All our products come with detailed care instructions.</p>
+        </div>
+      </div>
+      <div class="faq-item animate-on-scroll">
+        <button class="faq-question">Do you offer international shipping?<span class="faq-toggle">+</span></button>
+        <div class="faq-answer">
+          <p>We currently ship to the US, Canada, and EU countries. International shipping rates and delivery times vary by destination. All orders over $100 qualify for free shipping in the continental US.</p>
+        </div>
+      </div>
+      <div class="faq-item animate-on-scroll">
+        <button class="faq-question">What's your return policy?<span class="faq-toggle">+</span></button>
+        <div class="faq-answer">
+          <p>We offer a 30-day satisfaction guarantee. If you're not completely happy with your purchase, you can return it for a full refund. All products come with a 1-year warranty against manufacturing defects.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="footer-wave"></div>
+  <div class="footer-content">
+    <div class="footer-logo">KAMAGIO</div>
+    <div class="footer-links">
+      <a href="#">About Us</a>
+      <a href="#">Contact</a>
+      <a href="#">Shipping Policy</a>
+      <a href="#">Privacy Policy</a>
+      <a href="#">Terms of Service</a>
+    </div>
+    <div class="footer-social">
+      <a href="#" aria-label="Facebook"><span>📱</span></a>
+      <a href="#" aria-label="Instagram"><span>📸</span></a>
+      <a href="#" aria-label="Pinterest"><span>📌</span></a>
+    </div>
+    <div class="footer-newsletter">
+      <p>Stay updated with our latest products and offers</p>
+      <form class="footer-email-form">
+        <input type="email" placeholder="Your email address" required>
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+    <p class="footer-copyright">© 2025 KAMAGIO – All rights reserved</p>
+    <div class="footer-pulse"></div>
+  </div>
+</footer>
+
+<!-- JavaScript -->
+<script src="assets/js/app.js"></script>
 
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
@@ -84,6 +368,74 @@
       line-height: 1.6;
       overflow-x: hidden;
       font-size: 16px;
+    }
+
+    /* Loading Screen */
+    .loading-screen {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(135deg, var(--white) 0%, var(--gray-100) 100%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 10000;
+      transition: opacity 0.5s ease, visibility 0.5s ease;
+    }
+
+    .loading-screen.hide {
+      opacity: 0;
+      visibility: hidden;
+    }
+
+    .loading-content {
+      text-align: center;
+    }
+
+    .loading-logo {
+      font-size: 2.5rem;
+      font-weight: 800;
+      background: var(--accent-gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 2rem;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    .loading-bar {
+      width: 200px;
+      height: 4px;
+      background: var(--gray-200);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+
+    .loading-progress {
+      height: 100%;
+      background: var(--accent-gradient);
+      width: 0;
+      animation: loadingProgress 2s ease-out forwards;
+    }
+
+    @keyframes loadingProgress {
+      to { width: 100%; }
+    }
+
+    /* Cursor Trail */
+    .cursor-trail {
+      position: fixed;
+      width: 20px;
+      height: 20px;
+      background: var(--accent-color);
+      border-radius: 50%;
+      pointer-events: none;
+      z-index: 9999;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      mix-blend-mode: difference;
     }
 
     /* Enhanced Animations */
@@ -146,15 +498,61 @@
       100% { transform: translateY(-100px) rotate(360deg) scale(0); opacity: 0; }
     }
 
-    @keyframes confetti-fall {
-      0% {
-        transform: translateY(-10px) rotate(0deg);
-        opacity: 1;
-      }
-      100% {
-        transform: translateY(100vh) rotate(360deg);
-        opacity: 0;
-      }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.05); opacity: 0.8; }
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    @keyframes morphShape {
+      0%, 100% { border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
+      25% { border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%; }
+      50% { border-radius: 50% 60% 30% 60% / 30% 60% 70% 40%; }
+      75% { border-radius: 60% 40% 60% 30% / 70% 40% 50% 60%; }
+    }
+
+    /* Floating shapes in hero */
+    .hero-background {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+    }
+
+    .floating-shape {
+      position: absolute;
+      background: var(--accent-light);
+      animation: morphShape 8s ease-in-out infinite;
+    }
+
+    .shape-1 {
+      width: 300px;
+      height: 300px;
+      top: 10%;
+      left: -10%;
+      animation-delay: 0s;
+    }
+
+    .shape-2 {
+      width: 200px;
+      height: 200px;
+      top: 60%;
+      right: -5%;
+      animation-delay: 2s;
+    }
+
+    .shape-3 {
+      width: 150px;
+      height: 150px;
+      top: 30%;
+      right: 20%;
+      animation-delay: 4s;
     }
 
     /* Floating particles background */
@@ -238,6 +636,31 @@
       -webkit-text-fill-color: transparent;
       background-clip: text;
     }
+    
+    .hero-cta {
+      margin-top: 3rem;
+      animation: fadeInUp 1s ease-out 0.6s both;
+    }
+    
+    .cta-button {
+      display: inline-block;
+      padding: 1rem 2.5rem;
+      background: var(--accent-gradient);
+      color: var(--white);
+      border-radius: 50px;
+      font-weight: 600;
+      font-size: 1.1rem;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      box-shadow: 0 8px 24px rgba(138, 175, 111, 0.3);
+      border: 2px solid transparent;
+    }
+    
+    .cta-button:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 32px rgba(138, 175, 111, 0.4);
+      border-color: rgba(255,255,255,0.3);
+    }
 
     /* Enhanced scroll indicator */
     .scroll-indicator {
@@ -314,11 +737,6 @@
       height: 100%;
       background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.1) 50%, transparent 100%);
       animation: shimmer 3s ease-in-out infinite;
-    }
-
-    @keyframes pulse {
-      0%, 100% { transform: scale(1) rotate(0deg); opacity: 0.15; }
-      50% { transform: scale(1.1) rotate(5deg); opacity: 0.25; }
     }
 
     .discount-content {
@@ -404,26 +822,33 @@
       box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
     }
 
+    .email-description {
+      margin-bottom: 2rem;
+      font-size: 1.1rem;
+      opacity: 0.9;
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
     /* Enhanced Email Form */
     .email-form {
       display: flex;
       gap: 1rem;
       max-width: 500px;
+      margin: 0 auto;
       animation: fadeInUp 0.8s ease-out 0.8s both;
       flex-wrap: wrap;
-      transition: all 0.5s ease;
     }
 
-    .email-form.hidden {
-      opacity: 0;
-      height: 0;
-      margin: 0;
-      pointer-events: none;
+    .input-wrapper {
+      flex: 1;
+      min-width: 280px;
+      position: relative;
     }
 
     .email-input {
-      flex: 1;
-      min-width: 280px;
+      width: 100%;
       padding: 1rem 1.5rem;
       font-size: 1.1rem;
       border: 2px solid var(--gray-800);
@@ -440,6 +865,11 @@
       border-color: var(--accent-color);
       box-shadow: 0 0 0 3px rgba(138, 175, 111, 0.2);
       background: rgba(255, 255, 255, 0.15);
+    }
+
+    .email-input.error {
+      border-color: var(--error);
+      box-shadow: 0 0 0 3px rgba(239, 68, 68, 0.2);
     }
 
     .email-input::placeholder {
@@ -488,80 +918,138 @@
       transform: translateY(0);
     }
 
-    .message {
+    .submit-btn.loading {
+      pointer-events: none;
+    }
+
+    .btn-text,
+    .btn-loader {
+      transition: opacity 0.3s ease;
+    }
+
+    .btn-loader {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      opacity: 0;
+    }
+
+    .submit-btn.loading .btn-text {
+      opacity: 0;
+    }
+
+    .submit-btn.loading .btn-loader {
+      opacity: 1;
+    }
+
+    .spinner {
+      width: 20px;
+      height: 20px;
+      border: 2px solid rgba(255, 255, 255, 0.3);
+      border-top: 2px solid white;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+
+    .success-message,
+    .error-message {
       display: none;
       margin-top: 1rem;
       padding: 1.5rem;
       border-radius: 12px;
       font-weight: 500;
-      border: 1px solid;
       backdrop-filter: blur(10px);
       animation: fadeInUp 0.5s ease-out;
-    }
-
-    .message.show {
-      display: block;
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .success-message {
       background: linear-gradient(135deg, rgba(16, 185, 129, 0.1) 0%, rgba(16, 185, 129, 0.05) 100%);
       color: var(--success);
-      border-color: rgba(16, 185, 129, 0.2);
+      border: 1px solid rgba(16, 185, 129, 0.2);
     }
 
     .error-message {
       background: linear-gradient(135deg, rgba(239, 68, 68, 0.1) 0%, rgba(239, 68, 68, 0.05) 100%);
       color: var(--error);
-      border-color: rgba(239, 68, 68, 0.2);
+      border: 1px solid rgba(239, 68, 68, 0.2);
     }
 
-    /* Enhanced Products Section */
+    .success-message.show,
+    .error-message.show {
+      display: block;
+    }
+
+    /* Products Section */
     .products-section {
       margin-top: 6rem;
     }
 
-    .section-title {
-      font-size: clamp(2rem, 6vw, 3.5rem);
-      font-weight: 700;
+    .section-header {
       text-align: center;
       margin-bottom: 3rem;
-      color: var(--gray-900);
+      width: 100%;
+    }
+    
+    .section-header.centered {
+      text-align: center;
+    }
+
+    .section-title {
+      font-size: clamp(1.8rem, 4vw, 2.5rem);
+      font-weight: 700;
       position: relative;
-      background: linear-gradient(135deg, var(--gray-900) 0%, var(--accent-color) 100%);
+      display: inline-block;
+      background: linear-gradient(135deg, var(--gray-900) 0%, var(--black) 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
+      margin: 0 auto 1rem;
+    }
+    
+    .section-title.centered {
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .section-title::after {
       content: '';
       position: absolute;
-      bottom: -0.5rem;
-      left: 50%;
-      transform: translateX(-50%);
-      width: 60px;
+      bottom: -10px;
+      left: 0;
+      width: 100%;
       height: 3px;
       background: var(--accent-gradient);
-      border-radius: 2px;
+      border-radius: 3px;
+    }
+    
+    .section-description {
+      max-width: 700px;
+      margin: 0 auto 2rem;
+      color: var(--gray-600);
+      font-size: 1.1rem;
     }
 
     .products-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       gap: 2rem;
-      margin-top: 4rem;
     }
 
     .product-card {
       background: var(--white);
+      border-radius: 16px;
+      padding: 2rem;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+      transition: all 0.3s ease;
       border: 1px solid var(--gray-200);
-      border-radius: 20px;
-      padding: 2.5rem 2rem;
-      text-align: center;
-      transition: all 0.4s ease;
       position: relative;
       overflow: hidden;
-      backdrop-filter: blur(10px);
+      display: flex;
+      flex-direction: column;
     }
 
     .product-card::before {
@@ -569,149 +1057,351 @@
       position: absolute;
       top: 0;
       left: 0;
-      right: 0;
-      height: 4px;
-      background: var(--accent-gradient);
-      transform: scaleX(0);
-      transition: transform 0.4s ease;
-      transform-origin: left;
-    }
-
-    .product-card::after {
-      content: '';
-      position: absolute;
-      top: -50%;
-      left: -50%;
-      width: 200%;
-      height: 200%;
-      background: radial-gradient(circle, var(--accent-light) 0%, transparent 70%);
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(135deg, var(--accent-light) 0%, transparent 100%);
       opacity: 0;
-      transition: opacity 0.4s ease;
-    }
-
-    .product-card:hover::before {
-      transform: scaleX(1);
-    }
-
-    .product-card:hover::after {
-      opacity: 1;
+      transition: opacity 0.3s ease;
     }
 
     .product-card:hover {
-      transform: translateY(-12px);
-      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+      transform: translateY(-10px);
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1);
       border-color: var(--accent-color);
     }
 
-    .product-icon {
-      font-size: 3rem;
-      margin-bottom: 1.5rem;
-      display: block;
-      transition: transform 0.3s ease;
+    .product-card:hover::before {
+      opacity: 0.1;
     }
 
-    .product-card:hover .product-icon {
+    .product-icon-wrapper {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 1.5rem;
+      background: var(--accent-light);
+      font-size: 1.8rem;
+      transition: all 0.3s ease;
+    }
+
+    .product-card:hover .product-icon-wrapper {
+      background: var(--accent-gradient);
+      color: var(--white);
       transform: scale(1.1);
     }
 
     .product-title {
-      font-size: 1.5rem;
-      font-weight: 600;
+      font-size: 1.3rem;
+      font-weight: 700;
       margin-bottom: 1rem;
       color: var(--gray-900);
-      position: relative;
-      z-index: 2;
     }
 
     .product-description {
       color: var(--gray-600);
-      line-height: 1.6;
-      font-size: 1.1rem;
-      position: relative;
-      z-index: 2;
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      flex-grow: 1;
     }
 
-    /* Enhanced Footer */
-    .footer {
-      background: linear-gradient(135deg, var(--gray-900) 0%, #1a1a2e 100%);
-      color: var(--gray-400);
+    .product-highlight {
+      display: inline-block;
+      padding: 0.5rem 1rem;
+      background: var(--accent-light);
+      color: var(--accent-hover);
+      border-radius: 50px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      transition: all 0.3s ease;
+      align-self: flex-start;
+      margin-top: auto;
+    }
+
+    .product-card:hover .product-highlight {
+      background: var(--accent-gradient);
+      color: var(--white);
+    }
+
+    /* Features Section */
+    .features-section {
+      margin: 6rem 0;
+    }
+
+    .features-container {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 2rem;
+    }
+
+    .feature-item {
+      flex: 1;
+      min-width: 200px;
+      max-width: 300px;
       text-align: center;
-      padding: 3rem 2rem;
-      margin-top: 6rem;
-      font-size: 0.9rem;
-      position: relative;
+      padding: 2rem;
+      background: var(--white);
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+      transition: all 0.3s ease;
+      border: 1px solid var(--gray-200);
+    }
+
+    .feature-item:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1);
+      border-color: var(--accent-color);
+    }
+
+    .feature-icon {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+      display: inline-block;
+      transition: all 0.3s ease;
+    }
+
+    .feature-item:hover .feature-icon {
+      transform: scale(1.2);
+    }
+
+    .feature-item h3 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+      color: var(--gray-900);
+    }
+
+    .feature-item p {
+      color: var(--gray-600);
+      font-size: 0.95rem;
+    }
+    
+    /* Testimonials Section */
+    .testimonials-section {
+      margin: 6rem 0;
+    }
+    
+    .testimonials-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
+    }
+    
+    .testimonial-card {
+      background: var(--white);
+      border-radius: 16px;
+      padding: 2rem;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+      border: 1px solid var(--gray-200);
+    }
+    
+    .testimonial-rating {
+      color: #fbbf24;
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+    }
+    
+    .testimonial-text {
+      font-style: italic;
+      color: var(--gray-700);
+      margin-bottom: 1rem;
+    }
+    
+    .testimonial-author {
+      font-weight: 600;
+      color: var(--gray-800);
+    }
+    
+    /* FAQ Section */
+    .faq-section {
+      margin: 6rem 0;
+    }
+    
+    .faq-container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    
+    .faq-item {
+      margin-bottom: 1rem;
+      border: 1px solid var(--gray-200);
+      border-radius: 12px;
       overflow: hidden;
     }
+    
+    .faq-question {
+      width: 100%;
+      padding: 1.5rem;
+      text-align: left;
+      background: var(--white);
+      border: none;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--gray-800);
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      transition: all 0.3s ease;
+    }
+    
+    .faq-question:hover {
+      background: var(--gray-100);
+    }
+    
+    .faq-toggle {
+      font-size: 1.5rem;
+      transition: transform 0.3s ease;
+    }
+    
+    .faq-question.active .faq-toggle {
+      transform: rotate(45deg);
+    }
+    
+    .faq-answer {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease;
+      background: var(--gray-100);
+    }
+    
+    .faq-answer p {
+      padding: 0 1.5rem 1.5rem;
+      color: var(--gray-700);
+    }
 
-    .footer::before {
-      content: '';
+    /* Footer */
+    .footer {
+      position: relative;
+      background: linear-gradient(135deg, var(--black) 0%, #1a1a2e 100%);
+      color: var(--white);
+      padding: 4rem 2rem 2rem;
+      text-align: center;
+      margin-top: 6rem;
+    }
+
+    .footer-wave {
       position: absolute;
-      top: 0;
+      top: -100px;
       left: 0;
-      right: 0;
-      height: 1px;
+      width: 100%;
+      height: 100px;
+      background: url("data:image/svg+xml,%3Csvg viewBox='0 0 1200 120' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z' fill='%23ffffff' opacity='.05'/%3E%3Cpath d='M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z' fill='%23ffffff' opacity='.05'/%3E%3Cpath d='M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z' fill='%23ffffff' opacity='.05'/%3E%3C/svg%3E");
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+
+    .footer-content {
+      position: relative;
+      z-index: 2;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    .footer-logo {
+      font-size: 1.8rem;
+      font-weight: 800;
+      margin-bottom: 1.5rem;
       background: var(--accent-gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+    
+    .footer-links a {
+      color: var(--white);
+      text-decoration: none;
+      opacity: 0.8;
+      transition: opacity 0.3s ease;
+    }
+    
+    .footer-links a:hover {
+      opacity: 1;
+    }
+    
+    .footer-social {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+    
+    .footer-social a {
+      color: var(--white);
+      font-size: 1.5rem;
+      opacity: 0.7;
+      transition: opacity 0.3s ease;
+    }
+    
+    .footer-social a:hover {
+      opacity: 1;
+    }
+    
+    .footer-newsletter {
+      max-width: 500px;
+      margin: 0 auto 2rem;
+    }
+    
+    .footer-newsletter p {
+      margin-bottom: 1rem;
+      opacity: 0.8;
+    }
+    
+    .footer-email-form {
+      display: flex;
+      gap: 0.5rem;
+    }
+    
+    .footer-email-form input {
+      flex: 1;
+      padding: 0.8rem 1rem;
+      border-radius: 8px;
+      border: none;
+      font-family: inherit;
+    }
+    
+    .footer-email-form button {
+      padding: 0 1.5rem;
+      background: var(--accent-gradient);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
     }
 
-    /* Responsive Design */
-    @media (max-width: 768px) {
-      .hero {
-        min-height: 100vh;
-        padding: 2rem 1rem;
-      }
-
-      .main-content {
-        padding: 4rem 1rem;
-      }
-
-      .discount-section {
-        margin-left: -1rem;
-        margin-right: -1rem;
-        border-radius: 0 0 30px 0;
-      }
-
-      .email-form {
-        flex-direction: column;
-      }
-
-      .email-input,
-      .submit-btn {
-        width: 100%;
-      }
-
-      .products-grid {
-        grid-template-columns: 1fr;
-        gap: 1.5rem;
-      }
-
-      .product-card {
-        padding: 2rem 1.5rem;
-      }
+    .footer-copyright {
+      opacity: 0.8;
+      font-size: 0.95rem;
+      margin-bottom: 1rem;
     }
 
-    @media (max-width: 480px) {
-      .hero {
-        padding: 1rem;
-      }
-
-      .discount-section {
-        padding: 2rem 1.5rem;
-      }
-
-      .discount-title {
-        line-height: 1.1;
-      }
-
-      .section-title {
-        margin-bottom: 2rem;
-      }
+    .footer-pulse {
+      width: 10px;
+      height: 10px;
+      background: var(--accent-color);
+      border-radius: 50%;
+      display: inline-block;
+      animation: pulse 2s ease-in-out infinite;
+      margin-left: 10px;
     }
 
-    /* Scroll animations */
+    /* Animations on scroll */
     .animate-on-scroll {
       opacity: 0;
       transform: translateY(30px);
-      transition: all 0.8s ease;
+      transition: opacity 0.6s ease, transform 0.6s ease;
     }
 
     .animate-on-scroll.animated {
@@ -719,307 +1409,210 @@
       transform: translateY(0);
     }
 
-    /* Performance optimizations */
-    .product-card,
-    .discount-code,
-    .submit-btn {
-      will-change: transform;
-    }
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      .hero-title {
+        font-size: clamp(1.3rem, 5vw, 2rem);
+      }
 
-    /* Accessibility */
-    @media (prefers-reduced-motion: reduce) {
-      * {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
+      .email-form {
+        flex-direction: column;
+      }
+
+      .input-wrapper {
+        min-width: 100%;
+      }
+
+      .submit-btn {
+        width: 100%;
+      }
+
+      .products-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .feature-item {
+        min-width: 100%;
+      }
+      
+      .footer-links {
+        flex-direction: column;
+        gap: 0.8rem;
       }
     }
 
-    /* Focus styles */
-    .email-input:focus,
-    .submit-btn:focus,
-    .discount-code:focus {
-      outline: 2px solid var(--accent-color);
-      outline-offset: 2px;
+    @media (max-width: 480px) {
+      .hero {
+        padding-top: 6rem;
+      }
+
+      .discount-section {
+        border-radius: 0 0 30px 0;
+      }
+
+      .discount-code {
+        padding: 0.8rem 1.5rem;
+      }
+      
+      .footer-email-form {
+        flex-direction: column;
+      }
+      
+      .footer-email-form button {
+        padding: 0.8rem;
+      }
     }
-  </style>
-</head>
-<body>
-
-<section class="hero">
-  <div class="particles" id="particles"></div>
-  <div class="hero-content">
-    <img src="kamagio.svg" alt="KAMAGIO logo" class="logo" />
-    <h1 class="hero-title">
-      <strong>Premium hydration</strong> meets timeless design.<br>
-      Vacuum-insulated tumblers & bottles – <strong>launching soon</strong>.
-    </h1>
-  </div>
-  <div class="scroll-indicator" aria-hidden="true"></div>
-</section>
-
-<main class="main-content">
-  <section class="discount-section">
-    <div class="discount-content">
-      <div class="discount-badge">Exclusive Launch Offer</div>
-      <h2 class="discount-title">20% OFF</h2>
-      <p class="discount-subtitle">Join our early supporters and save on your first order</p>
-      
-      <div class="discount-code" id="discountCode" onclick="copyToClipboard('KAMAGIO20')" role="button" tabindex="0">
-        KAMAGIO20
-      </div>
-      
-      <p style="margin-bottom: 2rem; font-size: 1.1rem; opacity: 0.9;">
-        Subscribe to be the first to know when we launch and receive your exclusive discount code.
-      </p>
-
-      <form class="email-form" id="subscribeForm" action="https://formspree.io/f/xeokzvoo" method="POST" novalidate>
-        <input 
-          type="email" 
-          name="email" 
-          class="email-input" 
-          placeholder="Your email address" 
-          required 
-          aria-label="Email address"
-        />
-        <button type="submit" class="submit-btn">
-          Get Early Access
-        </button>
-      </form>
-
-      <div class="message success-message" id="formMessage">
-        ✨ Thank you for subscribing! Your exclusive discount code is now available below.
-      </div>
-    </div>
-  </section>
-
-  <section class="products-section">
-    <h2 class="section-title animate-on-scroll">Our Premium Collection</h2>
-    <div class="products-grid">
-      <div class="product-card animate-on-scroll">
-        <span class="product-icon">🥤</span>
-        <h3 class="product-title">Stainless Steel Tumblers</h3>
-        <p class="product-description">Vacuum insulation keeps drinks at perfect temperature for hours. Hot stays hot, cold stays cold.</p>
-      </div>
-      <div class="product-card animate-on-scroll">
-        <span class="product-icon">💧</span>
-        <h3 class="product-title">Designer Water Bottles</h3>
-        <p class="product-description">Elegant, leak-proof bottles designed for both style and functionality in daily life.</p>
-      </div>
-      <div class="product-card animate-on-scroll">
-        <span class="product-icon">✨</span>
-        <h3 class="product-title">Premium Accessories</h3>
-        <p class="product-description">Protective sleeves, cleaning kits, and stylish add-ons to complement your drinkware.</p>
-      </div>
-      <div class="product-card animate-on-scroll">
-        <span class="product-icon">🎁</span>
-        <h3 class="product-title">Gift Sets</h3>
-        <p class="product-description">Beautifully packaged sets perfect for any occasion, complete with personalization options.</p>
-      </div>
-    </div>
-  </section>
-</main>
-
-<footer class="footer">
-  © 2025 KAMAGIO – Premium Hydration Solutions. All rights reserved.
-</footer>
+</style>
 
 <script>
-  // Create floating particles
-  function createParticles() {
-    const particlesContainer = document.getElementById('particles');
-    const particleCount = window.innerWidth > 768 ? 50 : 25;
-    
-    for (let i = 0; i < particleCount; i++) {
-      const particle = document.createElement('div');
-      particle.className = 'particle';
-      particle.style.left = Math.random() * 100 + '%';
-      particle.style.width = particle.style.height = Math.random() * 4 + 2 + 'px';
-      particle.style.animationDelay = Math.random() * 8 + 's';
-      particle.style.animationDuration = (Math.random() * 3 + 5) + 's';
-      particlesContainer.appendChild(particle);
-    }
-  }
-
-  // Copy discount code to clipboard
-  function copyToClipboard(text) {
-    if (navigator.clipboard) {
-      navigator.clipboard.writeText(text).then(() => {
-        showCopyFeedback();
-      }).catch(() => {
-        fallbackCopyTextToClipboard(text);
-      });
-    } else {
-      fallbackCopyTextToClipboard(text);
-    }
-  }
-
-  function fallbackCopyTextToClipboard(text) {
-    const textArea = document.createElement('textarea');
-    textArea.value = text;
-    textArea.style.position = 'fixed';
-    textArea.style.opacity = '0';
-    document.body.appendChild(textArea);
-    textArea.focus();
-    textArea.select();
-    
-    try {
-      document.execCommand('copy');
-      showCopyFeedback();
-    } catch (err) {
-      alert('Code: ' + text);
-    }
-    
-    document.body.removeChild(textArea);
-  }
-
-  function showCopyFeedback() {
-    const code = document.getElementById('discountCode');
-    const originalText = code.textContent;
-    
-    code.textContent = 'Copied! ✓';
-    code.style.background = 'var(--success)';
-    code.style.color = 'white';
-    
-    setTimeout(() => {
-      code.textContent = originalText;
-      code.style.background = '';
-      code.style.color = '';
-    }, 2000);
-  }
-
-  // Form submission with discount code reveal
-  document.addEventListener('DOMContentLoaded', () => {
-    createParticles();
-    
-    // Add keyboard support for discount code
-    const discountCode = document.getElementById('discountCode');
-    if (discountCode) {
-      discountCode.addEventListener('keydown', function(e) {
-        if (e.key === 'Enter' || e.key === ' ') {
-          e.preventDefault();
-          copyToClipboard('KAMAGIO20');
-        }
-      });
-    }
-
-    // Scroll animations
-    const animateElements = document.querySelectorAll('.animate-on-scroll');
-    
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('animated');
-        }
-      });
-    }, {
-      threshold: 0.1
+    // Loading screen
+    window.addEventListener('load', function() {
+      setTimeout(function() {
+        document.getElementById('loadingScreen').classList.add('hide');
+      }, 1500);
     });
 
-    animateElements.forEach(el => observer.observe(el));
-
-    // Smooth scroll for the indicator
-    document.querySelector('.scroll-indicator').addEventListener('click', () => {
-      document.querySelector('.main-content').scrollIntoView({
-        behavior: 'smooth'
-      });
+    // Cursor trail effect
+    document.addEventListener('mousemove', function(e) {
+      const trail = document.getElementById('cursorTrail');
+      trail.style.left = (e.pageX - 10) + 'px';
+      trail.style.top = (e.pageY - 10) + 'px';
+      trail.style.opacity = '0.5';
+      
+      setTimeout(function() {
+        trail.style.opacity = '0';
+      }, 300);
     });
 
-    // Form submission
-    const form = document.getElementById('subscribeForm');
-    const formMessage = document.getElementById('formMessage');
-    const discountCodeElement = document.getElementById('discountCode');
-    
-    form.addEventListener('submit', async (e) => {
+    // Create floating particles
+    function createParticles() {
+      const particlesContainer = document.getElementById('particles');
+      const particleCount = 20;
+      
+      for (let i = 0; i < particleCount; i++) {
+        const particle = document.createElement('div');
+        particle.classList.add('particle');
+        
+        // Random properties
+        const size = Math.random() * 5 + 2;
+        const posX = Math.random() * 100;
+        const posY = Math.random() * 100;
+        const delay = Math.random() * 5;
+        const duration = Math.random() * 10 + 5;
+        const opacity = Math.random() * 0.5 + 0.1;
+        
+        particle.style.width = `${size}px`;
+        particle.style.height = `${size}px`;
+        particle.style.left = `${posX}%`;
+        particle.style.top = `${posY}%`;
+        particle.style.animationDelay = `${delay}s`;
+        particle.style.animationDuration = `${duration}s`;
+        particle.style.opacity = opacity;
+        
+        particlesContainer.appendChild(particle);
+      }
+    }
+
+    // Email form submission
+    document.getElementById('subscribeForm').addEventListener('submit', function(e) {
       e.preventDefault();
       
-      const formData = new FormData(form);
-      const email = formData.get('email');
+      const emailInput = document.getElementById('emailInput');
+      const submitBtn = document.getElementById('submitBtn');
+      const formMessage = document.getElementById('formMessage');
+      const errorMessage = document.getElementById('errorMessage');
+      const discountCode = document.getElementById('discountCode');
       
-      // Simple validation
-      if (!email || !email.includes('@')) {
-        formMessage.textContent = 'Please enter a valid email address';
-        formMessage.className = 'message error-message show';
+      // Validate email
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      const isValid = emailRegex.test(emailInput.value);
+      
+      if (!isValid) {
+        emailInput.classList.add('error');
+        errorMessage.classList.add('show');
+        formMessage.classList.remove('show');
         return;
       }
       
-      try {
-        const response = await fetch(form.action, {
-          method: 'POST',
-          body: formData,
-          headers: {
-            'Accept': 'application/json'
-          }
-        });
+      // Simulate form submission
+      submitBtn.classList.add('loading');
+      emailInput.disabled = true;
+      
+      setTimeout(function() {
+        submitBtn.classList.remove('loading');
+        formMessage.classList.add('show');
+        errorMessage.classList.remove('show');
+        discountCode.classList.add('show');
+        emailInput.classList.remove('error');
         
-        if (response.ok) {
-          // Show success message
-          formMessage.textContent = '✨ Thank you for subscribing! Your exclusive discount code is now available below.';
-          formMessage.className = 'message success-message show';
-          
-          // Hide the form and show discount code
-          form.classList.add('hidden');
-          
-          // Reveal discount code with animation
-          setTimeout(() => {
-            discountCodeElement.classList.add('show');
-            
-            // Create confetti effect
-            createConfetti();
-          }, 500);
-        } else {
-          throw new Error('Form submission failed');
-        }
-      } catch (error) {
-        formMessage.textContent = 'There was an error. Please try again later.';
-        formMessage.className = 'message error-message show';
-      }
+        // In a real implementation, you would send the data to your server here
+        console.log('Submitted email:', emailInput.value);
+      }, 1500);
     });
-  });
 
-  // Confetti effect for discount code reveal
-  function createConfetti() {
-    const confettiContainer = document.createElement('div');
-    confettiContainer.style.position = 'fixed';
-    confettiContainer.style.top = '0';
-    confettiContainer.style.left = '0';
-    confettiContainer.style.width = '100%';
-    confettiContainer.style.height = '100%';
-    confettiContainer.style.pointerEvents = 'none';
-    confettiContainer.style.zIndex = '1000';
-    document.body.appendChild(confettiContainer);
-    
-    const colors = ['#8aaf6f', '#65a373', '#ffffff', '#f8f9fa'];
-    const count = 100;
-    
-    for (let i = 0; i < count; i++) {
-      const confetti = document.createElement('div');
-      confetti.style.position = 'absolute';
-      confetti.style.width = Math.random() * 10 + 5 + 'px';
-      confetti.style.height = Math.random() * 10 + 5 + 'px';
-      confetti.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
-      confetti.style.borderRadius = Math.random() > 0.5 ? '50%' : '0';
-      confetti.style.left = Math.random() * 100 + 'vw';
-      confetti.style.top = '-10px';
-      confetti.style.opacity = Math.random() + 0.5;
-      confetti.style.transform = `rotate(${Math.random() * 360}deg)`;
-      
-      const animationDuration = Math.random() * 3 + 2;
-      confetti.style.animation = `confetti-fall ${animationDuration}s linear forwards`;
-      
-      confettiContainer.appendChild(confetti);
-      
-      // Remove confetti after animation
-      setTimeout(() => {
-        confetti.remove();
-      }, animationDuration * 1000);
+    // Copy discount code to clipboard
+    function copyToClipboard(text) {
+      navigator.clipboard.writeText(text).then(function() {
+        const discountCode = document.getElementById('discountCode');
+        discountCode.textContent = 'Copied!';
+        
+        setTimeout(function() {
+          discountCode.textContent = text;
+        }, 2000);
+      });
     }
-    
-    // Remove container after all confetti is gone
-    setTimeout(() => {
-      confettiContainer.remove();
-    }, 3000);
-  }
+
+    // FAQ accordion functionality
+    document.querySelectorAll('.faq-question').forEach(button => {
+      button.addEventListener('click', () => {
+        const faqItem = button.parentElement;
+        const answer = button.nextElementSibling;
+        
+        button.classList.toggle('active');
+        
+        if (button.classList.contains('active')) {
+          answer.style.maxHeight = answer.scrollHeight + 'px';
+        } else {
+          answer.style.maxHeight = '0';
+        }
+      });
+    });
+
+    // Animate elements on scroll
+    function animateOnScroll() {
+      const elements = document.querySelectorAll('.animate-on-scroll');
+      
+      elements.forEach(element => {
+        const elementPosition = element.getBoundingClientRect().top;
+        const screenPosition = window.innerHeight / 1.2;
+        
+        if (elementPosition < screenPosition) {
+          const delay = element.dataset.delay || 0;
+          
+          setTimeout(function() {
+            element.classList.add('animated');
+          }, delay);
+        }
+      });
+    }
+
+    // Initialize
+    window.addEventListener('DOMContentLoaded', function() {
+      createParticles();
+      
+      // Animate on first load
+      animateOnScroll();
+      
+      // Scroll indicator click
+      document.querySelector('.scroll-indicator').addEventListener('click', function() {
+        window.scrollBy({
+          top: window.innerHeight - 100,
+          behavior: 'smooth'
+        });
+      });
+    });
+
+    window.addEventListener('scroll', animateOnScroll);
 </script>
 </body>
 </html>
