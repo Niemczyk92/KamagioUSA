@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kamagio.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kamagio.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kamagio.com/collections/all.atom"/>
+  <title>Kamagio</title>
+  <updated>2025-10-17T11:11:58-04:00</updated>
+  <author>
+    <name>Kamagio</name>
+  </author>
+  <entry>
+    <id>https://kamagio.com/products/9194537255063</id>
+    <published>2025-10-17T11:11:58-04:00</published>
+    <updated>2025-10-17T11:11:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-snack-32oz"/>
+    <title>Kamagio Snack 32oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-DG-32-WHT-1.png?v=1760727474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99 - 39.99
+            <a href="https://kamagio.com/products/kamagio-snack-32oz">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><b>Bullet Points</b></p>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1;">
+<b>Durable &amp; Safe</b> – Made from premium food-grade stainless steel, BPA-free and built to last.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1;">
+<b>Temperature Control</b> – Double-wall vacuum insulation keeps drinks hot or cold for up to 24 hours.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1;">
+<b>Leak-Proof Lid</b> – Features a foldable spout for convenient, hygienic sipping on the go.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1;">
+<b>Smart Design</b> – Includes two detachable bottom containers for snacks, pet food, or small essentials.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1;">
+<b>Versatile Use</b> – Perfect for work, travel, sports, kids, or pets.</li>
+</ul>
+<p class="MsoNormal"><b>Product Description</b><br>The KAMAGIO Snack 32oz (950 ml) combines premium materials with a smart, multifunctional design. Its double-wall stainless steel insulation maintains the perfect temperature for your drinks, while the flip spout lid ensures easy, spill-free hydration anywhere. The two detachable bottom compartments provide extra storage for snacks, pet treats, or small items. Whether you’re heading to work, the gym, or an outdoor adventure, this bottle keeps you and your companions refreshed and ready to go.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>32oz</s:tag>
+    <s:tag>adults</s:tag>
+    <s:tag>bowl</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>pet</s:tag>
+    <s:tag>stainless</s:tag>
+    <s:tag>teens</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Yellow / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Yellow / Yes (+ $10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Black / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Black / Yes (+ $10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Navy / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Navy / Yes (+ $10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Gray / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Gray / Yes (+ $10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Green / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Green / Yes (+ $10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Green Apple / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Green Apple / Yes (+ $10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Pink / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Pink / Yes (+ $10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Blue / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Blue / Yes (+ $10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Brown / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Brown / Yes (+ $10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Red / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>Red / Yes (+ $10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>White / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194537255063</id>
+      <title>White / Yes (+ $10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kamagio.com/products/9194528407703</id>
+    <published>2025-10-17T11:01:35-04:00</published>
+    <updated>2025-10-17T11:01:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-twist-30oz"/>
+    <title>Kamagio Twist 30oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-TUM-30-WHT-1.png?v=1760727419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 29.99
+            <a href="https://kamagio.com/products/kamagio-twist-30oz">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><b>Bullet Points</b></p>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Durable &amp; Safe</b> – Crafted from food-grade stainless steel, BPA-free and long-lasting.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Temperature Retention</b> – Double-wall vacuum insulation keeps drinks hot or cold for 12–24 hours.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Convenient Lid</b> – Sliding closure prevents spills and makes sipping easy.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Stylish Design</b> – Larger capacity with a sleek and ergonomic shape.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Everyday Use</b> – Perfect for work, travel, outdoor activities, or daily hydration.</li>
+</ul>
+<p class="MsoNormal"><b>Product Description</b></p>
+<p class="MsoNormal">The KAMAGIO Twist 30oz (890 ml) combines larger capacity with elegant design and top performance. Made of durable, food-grade stainless steel with double-wall insulation, it keeps drinks hot or cold for up to 24 hours. Its sliding lid ensures easy, spill-free use, making it perfect for work, commuting, or everyday adventures.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30oz</s:tag>
+    <s:tag>adults</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>stainless</s:tag>
+    <s:tag>teens</s:tag>
+    <s:tag>tumbler</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:variant>
+      <id>https://kamagio.com/products/9194528407703</id>
+      <title>Blue / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194528407703</id>
+      <title>Blue / Yes (+$10)</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194528407703</id>
+      <title>Green / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194528407703</id>
+      <title>Green / Yes (+$10)</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194528407703</id>
+      <title>Beige / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194528407703</id>
+      <title>Beige / Yes (+$10)</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kamagio.com/products/9194523066519</id>
+    <published>2025-10-17T10:55:24-04:00</published>
+    <updated>2025-10-17T10:55:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-sip-14oz"/>
+    <title>Kamagio Sip 14oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-TUM-14-PWH-1.png?v=1760712490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99 - 27.99
+            <a href="https://kamagio.com/products/kamagio-sip-14oz">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><b>Bullet Points</b></p>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Perfect for Kids</b> – 14oz stainless steel tumbler with straw and handle, designed for toddlers and children.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Vacuum Insulated</b> – Double-wall insulation keeps drinks hot or cold for 12–24 hours.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Durable &amp; Eco-Friendly</b> – Made from BPA-free stainless steel with powder-coated finish for long-lasting use.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Kid-Friendly Colors</b> – Available in Apple Green, Ombre Blue, Ombre Peach, Dark Green, Light Purple, Pink, and Blue.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Everyday Versatility</b> – Great for water, juice, or milk; perfect for school, travel, or daily hydration.</li>
+</ul>
+<div class="MsoNormal" align="center" style="text-align: center;"><hr size="2" width="100%" align="center"></div>
+<p class="MsoNormal"><b>Product Description</b></p>
+<p><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">The <b>KAMAGIO Kids Tumbler</b> is a 14oz (420ml) stainless steel cup designed for toddlers and children. With its vacuum insulation, it keeps drinks hot or cold for up to 24 hours, making it perfect for school, travel, and everyday use. The eco-friendly, powder-coated design is durable and easy to clean, while the included straw and handle make drinking comfortable for little hands. Available in multiple kid-friendly colors, this tumbler is both functional and fun, helping children stay hydrated throughout the day.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14oz</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>stainless</s:tag>
+    <s:tag>tumbler</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>Peach / No</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>Peach / Yes (+ $10)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>Green / No</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>Green / Yes (+ $10)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>Blue / No</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>Blue / Yes (+ $10)</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>Green Apple / No</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>Green Apple / Yes (+ $10)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>White Blue / No</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku/>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>White Blue / Yes (+ $10)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>Purple / No</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194523066519</id>
+      <title>Purple / Yes (+ $10)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kamagio.com/products/9194509762711</id>
+    <published>2025-10-17T10:44:46-04:00</published>
+    <updated>2025-10-17T10:44:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-splash-17oz"/>
+    <title>Kamagio Splash 17oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-TUM-17-PNK-1.png?v=1760712125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 29.99
+            <a href="https://kamagio.com/products/kamagio-splash-17oz">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><b>Bullet Points</b></p>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Safe &amp; Durable</b> – Made from BPA-free 304 stainless steel, safe for children and long-lasting use.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Vacuum Insulated</b> – Double-wall insulation keeps drinks hot or cold for 6–12 hours, ideal for school, home, or parties.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Kid-Friendly Design</b> – Includes handle, straw, and lid for easy drinking and spill prevention.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Stylish &amp; Customizable</b> – Powder-coated finish with custom color options and optional logo printing.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Versatile Use</b> – Perfect for coffee, tea, water, or juice; great for gifts, parties, and everyday hydration.</li>
+</ul>
+<div class="MsoNormal" align="center" style="text-align: center;"><hr size="2" width="100%" align="center"></div>
+<p class="MsoNormal"><b>Product Description</b></p>
+<p class="MsoNormal">The <b>KAMAGIO Kids Tumbler 17oz (500 ml)</b> is made from BPA-free 304 stainless steel and features double-wall vacuum insulation that keeps drinks hot or cold for 6–12 hours. The tumbler includes a handle, straw, and lid to make drinking easy and spill-free for children. Its powder-coated finish allows for custom colors and logo printing, making it both functional and stylish. Made from food-grade materials and safety-tested, this tumbler is perfect for everyday use, school, parties, or as a gift.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17oz</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>stainless</s:tag>
+    <s:tag>teens</s:tag>
+    <s:tag>tumbler</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:variant>
+      <id>https://kamagio.com/products/9194509762711</id>
+      <title>Purple / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194509762711</id>
+      <title>Purple / Yes (+ $10)</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194509762711</id>
+      <title>Blue / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194509762711</id>
+      <title>Blue / Yes (+ $10)</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194509762711</id>
+      <title>Yellow / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194509762711</id>
+      <title>Yellow / Yes (+ $10)</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194509762711</id>
+      <title>Pink / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194509762711</id>
+      <title>Pink / Yes (+ $10)</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kamagio.com/products/9194506059927</id>
+    <published>2025-10-17T10:40:30-04:00</published>
+    <updated>2025-10-17T10:40:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-chill-14oz"/>
+    <title>Kamagio Chill 14oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-CC-14-PNK-1.png?v=1760733842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 24.99
+            <a href="https://kamagio.com/products/kamagio-chill-14oz">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><b>Bullet Points</b></p>
+<ul type="disc" style="margin-top: 0in;">
+<li style="mso-list: l0 level1 lfo1; tab-stops: list .5in;" class="MsoNormal">
+<b>Premium Quality</b> – Made of durable, food-grade stainless steel, BPA-free and safe for beverages.</li>
+<li style="mso-list: l0 level1 lfo1; tab-stops: list .5in;" class="MsoNormal">
+<b>Long-Lasting Cooling</b> – Double-wall vacuum insulation keeps drinks cold for 12–24 hours.</li>
+<li style="mso-list: l0 level1 lfo1; tab-stops: list .5in;" class="MsoNormal">
+<b>Universal Fit</b> – Compatible with most 330–355ml cans and bottles.</li>
+<li style="mso-list: l0 level1 lfo1; tab-stops: list .5in;" class="MsoNormal">
+<b>Convenient Lid</b> – Protects from dust and helps maintain temperature.</li>
+<li style="mso-list: l0 level1 lfo1; tab-stops: list .5in;" class="MsoNormal">
+<b>Sleek &amp; Functional Design</b> – Modern look, comfortable grip, and fits perfectly in car cup holders.</li>
+</ul>
+<p class="MsoNormal"><b>Product Description</b><br>The KAMAGIO Chill 14oz (414 ml) is designed to keep your favorite drinks refreshingly cold for hours. Made of premium stainless steel with double-wall insulation, it fits most cans and bottles securely. The convenient lid keeps your drink clean and temperature-stable, while the ergonomic design offers a stylish and comfortable hold—perfect for home, outdoor adventures, or travel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>stainless</s:tag>
+    <s:tag>tumbler</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:variant>
+      <id>https://kamagio.com/products/9194506059927</id>
+      <title>Navy / No</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194506059927</id>
+      <title>Navy / Yes (+$10)</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194506059927</id>
+      <title>Blue / No</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194506059927</id>
+      <title>Blue / Yes (+$10)</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194506059927</id>
+      <title>Black / No</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194506059927</id>
+      <title>Black / Yes (+$10)</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194506059927</id>
+      <title>Pink / No</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194506059927</id>
+      <title>Pink / Yes (+$10)</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kamagio.com/products/9194487283863</id>
+    <published>2025-10-17T10:24:29-04:00</published>
+    <updated>2025-10-17T10:24:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-peak-64oz"/>
+    <title>Kamagio Peak 64oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-BT-64-MCL-1-1.png?v=1760711233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99 - 44.99
+            <a href="https://kamagio.com/products/kamagio-peak-64oz">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><b style="mso-bidi-font-weight: normal;"><span lang="EN">Bullet Points</span></b></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN" style="font-size: 10.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols';"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">        </span></span></span><!--[endif]--><b style="mso-bidi-font-weight: normal;"><span lang="EN">Safe &amp; Durable</span></b><span lang="EN"> – Made from food-grade stainless steel, BPA-free and eco-friendly for long-lasting use.</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN" style="font-size: 10.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols';"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">        </span></span></span><!--[endif]--><b style="mso-bidi-font-weight: normal;"><span lang="EN">Vacuum Insulated</span></b><span lang="EN"> – Double-wall insulation keeps drinks hot or cold for 12–24 hours, perfect for gym, travel, or outdoor activities.</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN" style="font-size: 10.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols';"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">        </span></span></span><!--[endif]--><b style="mso-bidi-font-weight: normal;"><span lang="EN">Modern &amp; Stylish Design</span></b><span lang="EN"> – Straight cup shape with powder-coated finish, available in multiple colors.</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN" style="font-size: 10.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols';"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">        </span></span></span><!--[endif]--><b style="mso-bidi-font-weight: normal;"><span lang="EN">Versatile Use</span></b><span lang="EN"> – Suitable for water, coffee, tea, or other beverages; perfect for sports, camping, travel, or everyday use.</span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><hr size="2" width="100%" align="center"></div>
+<p class="MsoNormal"><b style="mso-bidi-font-weight: normal;"><span lang="EN">Product Description</span></b></p>
+<p class="MsoNormal"><span lang="EN">The <b style="mso-bidi-font-weight: normal;">KAMAGIO 64oz (1,9 L) Water Bottle</b> is made from food-grade stainless steel and features double-wall vacuum insulation that keeps drinks hot or cold for 12–24 hours. Designed for sports, travel, and outdoor activities, this bottle is durable, eco-friendly, and BPA-free. The straight cup design with powder-coated finish adds style and durability.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>64oz</s:tag>
+    <s:tag>adults</s:tag>
+    <s:tag>bottles</s:tag>
+    <s:tag>stainless</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Green / Phone Lid / No</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Green / Phone Lid / Yes (+ $10)</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Green / Straw Lid / No</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Green / Straw Lid / Yes (+ $10)</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Pink / Phone Lid / No</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Pink / Phone Lid / Yes (+ $10)</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Pink / Straw Lid / No</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Pink / Straw Lid / Yes (+ $10)</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Multicolor / Phone Lid / No</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Multicolor / Phone Lid / Yes (+ $10)</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Multicolor / Straw Lid / No</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194487283863</id>
+      <title>Multicolor / Straw Lid / Yes (+ $10)</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kamagio.com/products/9194479124631</id>
+    <published>2025-10-17T10:17:52-04:00</published>
+    <updated>2025-10-17T10:17:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-wave-32oz"/>
+    <title>Kamagio Wave 32oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-BT-32-BPK-2-3.png?v=1760727500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99 - 39.99
+            <a href="https://kamagio.com/products/kamagio-wave-32oz">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><b>Bullet Points</b></p>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Safe &amp; Durable</b> – Made from food-grade stainless steel, BPA-free and eco-friendly for long-lasting use.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Vacuum Insulated</b> – Double-wall insulation keeps drinks hot or cold for 12–24 hours, perfect for gym, travel, or outdoor activities.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Custom Logo Available</b> – Supports silk screen, laser engraving, or heat transfer printing, ideal for personal or corporate gifts.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Modern &amp; Stylish Design</b> – Straight cup shape with powder-coated finish, available in multiple colors.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Versatile Use</b> – Suitable for water, coffee, tea, or other beverages; perfect for sports, camping, travel, or everyday use.</li>
+</ul>
+<div class="MsoNormal" align="center" style="text-align: center;"><hr size="2" width="100%" align="center"></div>
+<p class="MsoNormal"><b>Product Description</b></p>
+<p><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">The <b>KAMAGIO 32oz (950 ml) Water Bottle</b> is made from food-grade stainless steel and features double-wall vacuum insulation that keeps drinks hot or cold for 12–24 hours. Designed for sports, travel, and outdoor activities, this bottle is durable, eco-friendly, and BPA-free. The straight cup design with powder-coated finish adds style and durability. Custom logo options are available via silk screen, laser engraving, or heat transfer printing, making it suitable for personal use or corporate gifts.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Navy / Phone Lid / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Navy / Phone Lid / Yes (+$10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Navy / Straw Lid / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Navy / Straw Lid / Yes (+$10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Pink / Phone Lid / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Pink / Phone Lid / Yes (+$10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Pink / Straw Lid / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Pink / Straw Lid / Yes (+$10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Green / Phone Lid / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Green / Phone Lid / Yes (+$10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Green / Straw Lid / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194479124631</id>
+      <title>Green / Straw Lid / Yes (+$10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kamagio.com/products/9194470932631</id>
+    <published>2025-10-17T10:11:53-04:00</published>
+    <updated>2025-10-17T10:11:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-drift-24oz"/>
+    <title>Kamagio Drift 24oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-BT-24-LBG-1-1.png?v=1760727388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99 - 34.99
+            <a href="https://kamagio.com/products/kamagio-drift-24oz">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><b style="mso-bidi-font-weight: normal;"><span lang="EN">Bullet Points</span></b></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN" style="font-size: 10.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols';"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">        </span></span></span><!--[endif]--><b style="mso-bidi-font-weight: normal;"><span lang="EN">Safe &amp; Durable</span></b><span lang="EN"> – Made from food-grade stainless steel, BPA-free and eco-friendly for long-lasting use.</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN" style="font-size: 10.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols';"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">        </span></span></span><!--[endif]--><b style="mso-bidi-font-weight: normal;"><span lang="EN">Vacuum Insulated</span></b><span lang="EN"> – Double-wall insulation keeps drinks hot or cold for 12–24 hours, perfect for gym, travel, or outdoor activities.</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN" style="font-size: 10.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols';"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">        </span></span></span><!--[endif]--><b style="mso-bidi-font-weight: normal;"><span lang="EN">Modern &amp; Stylish Design</span></b><span lang="EN"> – Straight cup shape with powder-coated finish, available in multiple colors.</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.25in; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN" style="font-size: 10.0pt; line-height: 115%; font-family: 'Noto Sans Symbols'; mso-fareast-font-family: 'Noto Sans Symbols'; mso-bidi-font-family: 'Noto Sans Symbols';"><span style="mso-list: Ignore;">●<span style="font: 7.0pt 'Times New Roman';">        </span></span></span><!--[endif]--><b style="mso-bidi-font-weight: normal;"><span lang="EN">Versatile Use</span></b><span lang="EN"> – Suitable for water, coffee, tea, or other beverages; perfect for sports, camping, travel, or everyday use.</span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><hr size="2" width="100%" align="center"></div>
+<p class="MsoNormal"><b style="mso-bidi-font-weight: normal;"><span lang="EN">Product Description</span></b></p>
+<p class="MsoNormal"><span lang="EN"><span style="mso-spacerun: yes;"> </span>The <b style="mso-bidi-font-weight: normal;">KAMAGIO 24oz (700 ml) Water Bottle</b> is made from food-grade stainless steel and features double-wall vacuum insulation that keeps drinks hot or cold for 12–24 hours. Designed for sports, travel, and outdoor activities, this bottle is durable, eco-friendly, and BPA-free. The straight cup design with powder-coated finish adds style and durability. Custom logo options are available via silk screen, laser engraving, or heat transfer printing, making it suitable for personal use or corporate gifts.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 oz</s:tag>
+    <s:tag>adults</s:tag>
+    <s:tag>bottles</s:tag>
+    <s:tag>stainless</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Gray / Phone Lid / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Gray / Phone Lid / Yes (+$10)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Gray / Straw Lid / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Gray / Straw Lid / Yes (+$10)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Beige / Phone Lid / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Beige / Phone Lid / Yes (+$10)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Beige / Straw Lid / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Beige / Straw Lid / Yes (+$10)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Pink / Phone Lid / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Pink / Phone Lid / Yes (+$10)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Pink / Straw Lid / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9194470932631</id>
+      <title>Pink / Straw Lid / Yes (+$10)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kamagio.com/products/9192667512983</id>
+    <published>2025-10-16T19:29:31-04:00</published>
+    <updated>2025-10-16T19:29:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-boost-tumbler-40oz-copy"/>
+    <title>Kamagio Flow 20oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-TUM-20-PNK-1.png?v=1760727536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99 - 34.99
+            <a href="https://kamagio.com/products/kamagio-boost-tumbler-40oz-copy">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><b>Bullet Points</b></p>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Safe &amp; Durable</b> – Made from food-grade stainless steel, BPA-free and eco-friendly.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Vacuum Insulated</b> – Double-wall insulation keeps beverages hot or cold for 12–24 hours.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Sliding Lid Design</b> – Prevents spills and allows convenient sipping on the go.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Modern &amp; Compact</b> – Sleek shape fits comfortably in hand and most car cup holders.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Versatile Use</b> – Perfect for work, travel, office, or everyday hydration.</li>
+</ul>
+<p class="MsoNormal"><b>Product Description</b></p>
+<p class="MsoNormal">The KAMAGIO Flow 20oz (590 ml) combines durability and functionality in a sleek design. Made from food-grade stainless steel with double-wall vacuum insulation, it keeps beverages hot or cold for 12–24 hours. The sliding lid ensures easy, spill-free drinking, while the slim design fits most car cup holders. Ideal for work, travel, and daily use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20oz</s:tag>
+    <s:tag>adults</s:tag>
+    <s:tag>stainless</s:tag>
+    <s:tag>tumbler</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:variant>
+      <id>https://kamagio.com/products/9192667512983</id>
+      <title>Gray / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192667512983</id>
+      <title>Gray / Yes (+$10)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192667512983</id>
+      <title>Pink / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192667512983</id>
+      <title>Pink / Yes (+$10)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192667512983</id>
+      <title>Purple / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192667512983</id>
+      <title>Purple / Yes (+$10)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kamagio.com/products/9192598012055</id>
+    <published>2025-10-16T18:11:38-04:00</published>
+    <updated>2025-10-16T18:11:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-tumbler-40oz"/>
+    <title>Kamagio Boost 40oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-TUM-40-WHT-2.png?v=1760652579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99 - 39.99
+            <a href="https://kamagio.com/products/kamagio-tumbler-40oz">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><b>Bullet Points</b></p>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Large &amp; Durable</b> – Made from food-grade stainless steel, BPA-free, eco-friendly, and built to last.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Vacuum Insulated</b> – Double-wall design keeps beverages hot or cold for 12–24 hours.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Comfortable Drinking</b> – Includes a straw and sliding lid for easy use on the go.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Convenient Handle</b> – Provides a secure grip and easy carrying for larger volume.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Perfect Companion</b> – Ideal for office, travel, driving, and daily hydration.</li>
+</ul>
+<p class="MsoNormal"><b>Product Description</b></p>
+<p class="MsoNormal">The KAMAGIO Boost 40oz (1180 ml) is designed for those who need all-day hydration in style. Made from high-quality stainless steel with double-wall vacuum insulation, it keeps drinks hot or cold for up to 24 hours. Featuring a sturdy handle, sliding lid, and straw, it offers comfort and convenience wherever you go — from work to travel and everyday life.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>40oz</s:tag>
+    <s:tag>adults</s:tag>
+    <s:tag>stainless</s:tag>
+    <s:tag>tumbler</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:variant>
+      <id>https://kamagio.com/products/9192598012055</id>
+      <title>Beige / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192598012055</id>
+      <title>Beige / Yes (+$10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192598012055</id>
+      <title>Green / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192598012055</id>
+      <title>Green / Yes (+$10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192598012055</id>
+      <title>Gray / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192598012055</id>
+      <title>Gray / Yes (+$10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192598012055</id>
+      <title>Pink / No</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192598012055</id>
+      <title>Pink / Yes (+$10)</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku/>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kamagio.com/products/9192523235479</id>
+    <published>2025-10-16T16:28:18-04:00</published>
+    <updated>2025-10-16T16:28:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-24oz-vacuum-insulated-stainless-steel-water-bottle-thermal-sports-amp-travel-bottle-keeps-drinks-hot-or-cold-12-24-hours"/>
+    <title>Kamagio Fun 18oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-BT-18-BLU-1.png?v=1760646389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99 - 34.99
+            <a href="https://kamagio.com/products/kamagio-24oz-vacuum-insulated-stainless-steel-water-bottle-thermal-sports-amp-travel-bottle-keeps-drinks-hot-or-cold-12-24-hours">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="MsoNormal" align="center" style="text-align: left;">
+<p class="MsoNormal"><b>Bullet Points</b></p>
+<ol style="margin-top: 0in;" start="1" type="1">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Perfect for Kids</b> – 500 ml stainless steel vacuum flask with straw and handle, lightweight and easy to carry to school, on trips, or for sports activities.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Excellent Thermal Insulation</b> – double-wall vacuum technology keeps drinks hot or cold for 12–24 hours.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Safe and Eco-Friendly</b> – made of high-quality stainless steel, BPA-free, durable, and reusable.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Practical Design</b> – screw lid and straw make drinking easy, handle ensures easy carrying.</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">
+<b>Two Fun Colors</b> – available in two cheerful color options, perfect for everyday use or as a gift.</li>
+</ol>
+<div class="MsoNormal" align="center" style="text-align: center;"><hr size="2" width="100%" align="center"></div>
+<p class="MsoNormal"><b>Product Description</b></p>
+<p class="MsoNormal">The <b>KAMAGIO Kids Vacuum Flask 18 oz / 500 ml</b> is specially designed for children. Thanks to its double-wall vacuum insulation, it keeps drinks hot or cold for up to 24 hours, making it ideal for school, trips, or sports activities.</p>
+<p class="MsoNormal">Made from BPA-free stainless steel, the flask is safe, durable, and eco-friendly. The convenient straw and handle make drinking and carrying easy. Available in <b>two fun colors</b>, this thermos is both functional and playful, helping children stay hydrated throughout the day.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18oz</s:tag>
+    <s:tag>bottles</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>teens</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:variant>
+      <id>https://kamagio.com/products/9192523235479</id>
+      <title>Pink / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192523235479</id>
+      <title>Pink / Yes (+$10)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192523235479</id>
+      <title>Blue / No</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku/>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192523235479</id>
+      <title>Blue / Yes (+$10)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku/>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kamagio.com/products/9192521531543</id>
+    <published>2025-10-16T16:25:00-04:00</published>
+    <updated>2025-10-16T16:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://kamagio.com/products/kamagio-kids-vacuum-flask-18-oz-500-ml-with-straw-and-handle-stainless-steel-thermos-for-children-keeps-drinks-hot-or-cold"/>
+    <title>Kamagio Joy 12oz</title>
+    <s:type></s:type>
+    <s:vendor>Kamagio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0699/8409/2311/files/KAM-BT-12-BLU-8.png?v=1760645935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kamagio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 29.99
+            <a href="https://kamagio.com/products/kamagio-kids-vacuum-flask-18-oz-500-ml-with-straw-and-handle-stainless-steel-thermos-for-children-keeps-drinks-hot-or-cold">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal"><b>Bullet Points</b></p>
+<ol type="1" start="1" style="margin-top: 0in;">
+<li style="mso-list: l0 level1 lfo1; tab-stops: list .5in;" class="MsoNormal">
+<b>Perfect for Kids</b> – 12 oz stainless steel vacuum flask with straw and handle, lightweight and easy to carry to school, on trips, or for sports activities.</li>
+<li style="mso-list: l0 level1 lfo1; tab-stops: list .5in;" class="MsoNormal">
+<b>Excellent Thermal Insulation</b> – double-wall vacuum technology keeps drinks hot or cold for 12–24 hours.</li>
+<li style="mso-list: l0 level1 lfo1; tab-stops: list .5in;" class="MsoNormal">
+<b>Safe and Eco-Friendly</b> – made of high-quality stainless steel, BPA-free, durable, and reusable.</li>
+<li style="mso-list: l0 level1 lfo1; tab-stops: list .5in;" class="MsoNormal">
+<b>Practical Design</b> – screw lid and straw make drinking easy, handle ensures easy carrying.</li>
+<li style="mso-list: l0 level1 lfo1; tab-stops: list .5in;" class="MsoNormal">
+<b>Two Fun Colors</b> – available in two cheerful color options, perfect for everyday use or as a gift.</li>
+</ol>
+<div style="text-align: center;" align="center" class="MsoNormal"><hr align="center" width="100%" size="2"></div>
+<p class="MsoNormal"><b>Product Description</b></p>
+<p class="MsoNormal">The <b>KAMAGIO Kids Vacuum Flask 12 oz / 350 ml</b> is specially designed for children. Thanks to its double-wall vacuum insulation, it keeps drinks hot or cold for up to 24 hours, making it ideal for school, trips, or sports activities.</p>
+<p class="MsoNormal">Made from BPA-free stainless steel, the flask is safe, durable, and eco-friendly. The convenient straw and handle make drinking and carrying easy. Available in <b>two fun colors</b>, this thermos is both functional and playful, helping children stay hydrated throughout the day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12oz</s:tag>
+    <s:tag>bottles</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>stainless</s:tag>
+    <s:tag>Vacuum Insulated</s:tag>
+    <s:variant>
+      <id>https://kamagio.com/products/9192521531543</id>
+      <title>Blue / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>70</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192521531543</id>
+      <title>Blue / Yes (+$10)</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192521531543</id>
+      <title>Pink / No</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kamagio.com/products/9192521531543</id>
+      <title>Pink / Yes (+$10)</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku/>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>
